@@ -57,8 +57,6 @@ I enjoy building scalable infrastructure, containerizing applications, automatin
 <img src="https://skillicons.dev/icons?i=docker,kubernetes"/>
 <img src="https://img.shields.io/badge/Docker%20Compose-2496ED?style=flat-square&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Kind-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
-<img src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white"/>
-<img src="https://img.shields.io/badge/Podman-892CA0?style=flat-square&logo=podman&logoColor=white"/>
 </td></tr>
 <tr><td><b>🚀 CI/CD</b></td><td>
 <img src="https://skillicons.dev/icons?i=jenkins,githubactions"/>
@@ -68,14 +66,14 @@ I enjoy building scalable infrastructure, containerizing applications, automatin
 <tr><td><b>🏗 Infrastructure as Code</b></td><td>
 <img src="https://skillicons.dev/icons?i=terraform"/>
 <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white"/>
-<img src="https://img.shields.io/badge/Terragrunt-5835CC?style=flat-square&logo=terraform&logoColor=white"/>
 </td></tr>
 <tr><td><b>🔥 Version Control</b></td><td>
 <img src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket"/>
 </td></tr>
 <tr><td><b>🐧 Operating Systems</b></td><td>
-<img src="https://skillicons.dev/icons?i=linux,bash"/>
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/>
+<img src="https://img.shields.io/badge/Red_Hat-EE0000?style=flat&logo=redhat&logoColor=white"/>
+<img src="https://img.shields.io/badge/CentOS-A14F8C?logo=centos&logoColor=white"/>
 <img src="https://img.shields.io/badge/Amazon%20Linux-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
 </td></tr>
 <tr><td><b>🌐 Web Servers & Proxies</b></td><td>
