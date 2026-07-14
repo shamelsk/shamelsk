@@ -134,11 +134,11 @@ Full-stack Notes Management System built using Django.
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINK">
+<a href="https://linkedin.com/in/shamelkhan">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:shamel.cse@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
