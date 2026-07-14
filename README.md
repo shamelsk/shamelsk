@@ -56,19 +56,17 @@ Location  : India
 ## 🤝 Let's Connect
 
 <p align="left">
-
-<a href="https://github.com/shamelsk">
-<img src="https://skillicons.dev/icons?i=github" height="45"/>
-</a>
-
-<a href="www.linkedin.com/in/shamelkhan">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+<a href="https://www.linkedin.com/in/shamelkhan/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <a href="mailto:shamel.cse@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 
+<a href="https://github.com/shamelsk" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
 </p>
 
 ---
