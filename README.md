@@ -15,3 +15,23 @@
 </a>
 
 </p>
+---
+## 👨🏻‍💻 About Me
+
+I'm **Shamel Khan**, a Computer Science student with a strong interest in **DevOps**, **Cloud Computing**, and **Infrastructure Automation**.
+
+I enjoy building scalable infrastructure, containerizing applications, automating deployments, and working with modern cloud-native technologies.
+
+My goal is to continuously improve my skills by building real-world projects and contributing to open-source software while following industry best practices.
+
+I believe in creating systems that are **reliable**, **automated**, **maintainable**, and **production-ready**.
+## 🚀 Areas of Interest
+
+- ☁️ Cloud Computing
+- 🐳 Containerization & Virtualization
+- ☸️ Kubernetes & Container Orchestration
+- ⚙️ CI/CD Automation
+- 🏗 Infrastructure as Code (IaC)
+- 🐧 Linux Administration
+- 🔐 Cloud Security
+- 🌍 Open Source
