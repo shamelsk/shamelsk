@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Shamel Khan 👋
+# Hi there, I'm Shamel👋
 
 ### 🚀 DevOps & Cloud Enthusiast | Software Developer | Open Source Contributor
 
