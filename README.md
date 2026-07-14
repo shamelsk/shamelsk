@@ -1,66 +1,134 @@
 <div align="center">
 
-# Hi, I'm Shamel👋
+# Shamel Khan
 
-### DevOps • Cloud • Automation
+### DevOps Engineer • Cloud Enthusiast • Infrastructure Automation
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1000&color=3FB950&center=true&vCenter=true&width=700&lines=DevOps+%26+Cloud+Enthusiast;Building+Reliable+Infrastructure;Automation+Deployments;Learning+by+Building" alt="Typing Animation" />
+*Building reliable infrastructure, automating deployments, and continuously learning modern cloud technologies.*
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shamelkhan/)
+[![Gmail](https://img.shields.io/badge/Gmail-shamel.cse@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shamel.cse@gmail.com)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+# 👨🏻‍💻 About Me
 
-I'm a Computer Science student with a strong interest in **DevOps**, **Cloud Computing**, and **Infrastructure Automation**.
+I'm a Computer Science student with a strong passion for **DevOps**, **Cloud Computing**, and **Infrastructure Automation**.
 
-I enjoy designing reliable infrastructure, containerizing applications, automating deployments, and learning modern cloud-native technologies through practical projects and open-source contributions.
+I enjoy designing scalable infrastructure, containerizing applications, automating deployments, and exploring cloud-native technologies through practical projects and open-source contributions.
 
-I believe in learning by building, continuously improving my workflow, and writing infrastructure that is scalable, reproducible, and maintainable.
+My approach is simple:
+
+> **Learn by building. Improve through consistency. Automate wherever possible.**
+
+I'm constantly exploring better ways to build systems that are reliable, maintainable, and production-ready.
 
 ---
 
-## ⚙️ Tools & Technologies
+# 🚀 Areas of Interest
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=linux,git,github,docker,kubernetes,aws,terraform,jenkins,githubactions,nginx,mysql,bash,python,vscode,postman,maven" />
+- ☁️ Cloud Computing
+- 🐳 Containerization
+- ☸️ Kubernetes & Container Orchestration
+- ⚙️ CI/CD Pipelines
+- 🏗 Infrastructure as Code
+- 🐧 Linux System Administration
+- 🔐 Cloud Security Fundamentals
+- 🌍 Open Source
+
+---
+
+# 🛠 Technologies & Tools
+
+### Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws"/>
+</p>
+
+### DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,jenkins,githubactions"/>
+</p>
+
+### Infrastructure
+
+<p>
+<img src="https://skillicons.dev/icons?i=linux,nginx"/>
+</p>
+
+### Version Control
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github"/>
+</p>
+
+### Development Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,postman,mysql,bash"/>
 </p>
 
 ---
 
-## 🎯 Current Focus
+# 💡 Philosophy
 
-* Designing cloud-native infrastructure
-* Containerization with Docker
-* Kubernetes deployments and orchestration
-* Infrastructure as Code using Terraform
-* Building CI/CD pipelines
-* Exploring AWS architecture and best practices
+I believe great infrastructure should be:
+
+- Reliable
+- Scalable
+- Automated
+- Secure
+- Easy to maintain
+
+Whether it's deploying applications, provisioning infrastructure, or building CI/CD pipelines, I enjoy creating workflows that reduce manual effort and improve reliability.
 
 ---
 
-## 🤝 Let's Connect
+# 📚 Currently Exploring
+
+- Kubernetes Production Workloads
+- AWS Architecture
+- Infrastructure as Code with Terraform
+- GitHub Actions
+- Monitoring & Observability
+- Platform Engineering Concepts
+
+---
+
+# 🌱 Open Source
+
+I enjoy contributing to open-source projects whenever I can.
+
+Open source has helped me learn continuously, improve my development workflow, and collaborate with the community.
+
+I'm always open to learning from others and contributing wherever possible.
+
+---
+
+# 🤝 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/shamelkhan/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+
+<a href="https://www.linkedin.com/in/shamelkhan/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="mailto:shamel.cse@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/shamelsk" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
 </p>
 
 ---
 
 <div align="center">
 
-*"Always learning. Always improving."*
-
-![](https://komarev.com/ghpvc/?username=shamelsk\&style=flat-square\&color=3fb950)
+### *"Always learning. Always improving."*
 
 </div>
