@@ -56,3 +56,70 @@ I believe in creating systems that are **reliable**, **automated**, **maintainab
 
 <img src="https://img.shields.io/badge/Kind-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
 </p>
+
+### 💻 Backend & Frameworks
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,flask,django,spring"/>
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+</p>
+
+### 🐧 Operating System
+
+<p>
+<img src="https://skillicons.dev/icons?i=linux,bash"/>
+</p>
+
+### 📂 Version Control
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github"/>
+</p>
+
+### 🗄 Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb"/>
+</p>
+
+### 🌐 Web Server
+
+<p>
+<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
+</p>
+
+### 🛠 Development Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,postman,maven"/>
+</p>
+
+## 💡 Philosophy
+
+I enjoy solving infrastructure challenges through automation and continuous improvement.
+
+Whether it's deploying applications, provisioning cloud infrastructure, or building CI/CD pipelines, I strive to create solutions that are simple, scalable, and reliable.
+
+My focus is on learning by building and writing infrastructure that is easy to deploy, maintain, and scale.
+
+## 📚 Currently Exploring
+
+- Kubernetes Production Workloads
+- AWS Architecture & Best Practices
+- Infrastructure as Code with Terraform
+- GitHub Actions
+- Monitoring & Observability
+- Platform Engineering
+
+---
+
+<div align="center">
+
+### Building systems that are scalable, reliable, and automated.
+
+⭐ *Thanks for visiting my profile! Feel free to connect or collaborate.*
+
+</div>
