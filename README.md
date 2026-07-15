@@ -69,7 +69,6 @@ I enjoy building scalable infrastructure, containerizing applications, automatin
 <tr><td><b>🏗 Infrastructure as Code</b></td><td>
 <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white"/>
 <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white"/>
-<img src="https://img.shields.io/badge/Terragrunt-5835CC?style=flat-square&logo=terraform&logoColor=white"/>
 </td></tr>
 <tr><td><b>🔥 Version Control</b></td><td>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
@@ -82,7 +81,6 @@ I enjoy building scalable infrastructure, containerizing applications, automatin
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/>
 <img src="https://img.shields.io/badge/Red%20Hat-EE0000?style=flat-square&logo=redhat&logoColor=white"/>
 <img src="https://img.shields.io/badge/Amazon%20Linux-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white"/>
 </td></tr>
 <tr><td><b>🌐 Web Servers & Proxies</b></td><td>
 <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white"/>
@@ -113,6 +111,7 @@ I enjoy building scalable infrastructure, containerizing applications, automatin
 </td></tr>
 <tr><td><b>💻 Programming & Scripting</b></td><td>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
 <img src="https://img.shields.io/badge/YAML-CB171E?style=flat-square&logo=yaml&logoColor=white"/>
