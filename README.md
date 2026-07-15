@@ -1,44 +1,4 @@
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=12,20,24,30&text=Shamel%20&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DevOps%20Engineer%20•%20Cloud%20•%20Infrastructure%20Automation&descAlignY=60"/>
-</p>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=21&duration=3200&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+Reliable%2C+Automated+Infrastructure;Docker+%7C+Kubernetes+%7C+AWS+%7C+Terraform;Learning+by+Building%2C+Shipping+by+Doing;Always+Improving."/>
-</p>
-
-<p align="center">
-<a href="https://www.linkedin.com/in/shamelkhan/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:shamel.cse@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-</p>
-
-<br>
-
-## 👨🏻‍💻 About Me
-
-I'm **Shamel** — a Computer Science & Engineering undergraduate with a strong focus on **DevOps**, **Cloud Computing**, and **Infrastructure Automation**.
-
-I enjoy building scalable infrastructure, containerizing applications, automating deployments, and working with modern cloud-native tools. My goal is to keep leveling up by shipping real-world projects, contributing to open source, and following solid engineering practices along the way.
-
-> I believe in building systems that are **reliable**, **automated**, **maintainable**, and **production-ready.**
-
-<br>
-
-## 🚀 Areas of Interest
-
-| | |
-|---|---|
-| ☁️ **Cloud Computing** | ⚙️ **CI/CD Automation** |
-| 🐳 **Containerization & Virtualization** | 🏗 **Infrastructure as Code (IaC)** |
-| ☸️ **Kubernetes & Orchestration** | 🐧 **Linux Administration** |
-| 🔐 **Cloud Security** | 🌍 **Open Source** |
-
-<br>
-
-<p align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=12,20,24,30&text=Shamel%20Khan&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DevOps%20Engineer%20•%20Cloud%20•%20Infrastructure%20Automation&descAlignY=60"/>
 </p>
 
@@ -189,36 +149,6 @@ I enjoy building scalable infrastructure, containerizing applications, automatin
 
 
 <br>
-
-## 💡 Philosophy
-
-I enjoy solving infrastructure challenges through automation and continuous improvement. Whether it's deploying applications, provisioning cloud infrastructure, or building CI/CD pipelines, I aim for solutions that are **simple, scalable, and reliable.**
-
-My focus stays on **learning by building** — writing infrastructure that's easy to deploy, maintain, and scale.
-
-<br>
-
-## 🎯 Right Now, I'm Focused On
-
-- Deepening **Kubernetes** for real production workloads
-- Getting hands-on with **Terraform** at a team/module level
-- Building out an **observability stack** (Prometheus + Grafana)
-- Strengthening **AWS architecture** decisions, not just service usage
-
-<br>
-
-<p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=12,20,24,30&section=footer"/>
-</p>
-
-<div align="center">
-
-### Building systems that are scalable, reliable, and automated. ⚡
-
-⭐ *Thanks for visiting my profile — feel free to connect or collaborate!*
-
-</div>
-
 
 ## 💡 Philosophy
 
