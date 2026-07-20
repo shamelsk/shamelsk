@@ -19,7 +19,7 @@
 
 ## 👨🏻‍💻 About Me
 
-I'm **Shamel Khan** — a Computer Science & Engineering undergraduate with a strong focus on **DevOps**, **Cloud Computing**, and **Infrastructure Automation**.
+I'm **Shamel** — a Computer Science & Engineering undergraduate with a strong focus on **DevOps**, **Cloud Computing**, and **Infrastructure Automation**.
 
 I enjoy building scalable infrastructure, containerizing applications, automating deployments, and working with modern cloud-native tools. My goal is to keep leveling up by shipping real-world projects, contributing to open source, and following solid engineering practices along the way.
 
